@@ -1,6 +1,15 @@
 {
   "name": "1000 TON Voucher",
-  "description": "Redeem your voucher for 1000 TON at https://tontp.info",
+  "description": "You will be able to exchange this collectible $TON token voucher.",
   "image": "https://gift-nft.github.io/TON-NFT/images/item.png",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type: "Value",
+      "value": "10000",
+    },
+    {
+      "trait_type: "Type",
+      "value": "$TONTP",
+    }
+  ]
 }
