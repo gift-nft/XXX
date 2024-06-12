@@ -4,11 +4,11 @@
   "image": "https://gift-nft.github.io/TON-NFT/images/item.png",
   "attributes": [
     {
-      "trait_type: "Value",
+      "trait_type": "Value",
       "value": "10000",
     },
     {
-      "trait_type: "Type",
+      "trait_type": "Type",
       "value": "$TONTP",
     }
   ]
