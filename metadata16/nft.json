@@ -1,0 +1,20 @@
+{
+  "name": "1000 tsTON Voucher #4246",
+  "image": "https://gift-nft.github.io/TON-NFT/images/item12.jpg",
+  "attributes": [
+    {
+      "trait_type": "Value",
+      "value": "5000"
+    },
+    {
+      "trait_type": "Type",
+      "value": "$tsTON"
+    },
+    {
+      "trait_type": "Verified",
+      "value": "True"
+    }
+  ],
+  "content_url": "https://xxx.xxx",
+  "description": "Rеdееm your vоuchеr for 5000 tsTON at https://xxx.xxx"
+}
