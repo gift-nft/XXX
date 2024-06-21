@@ -1,15 +1,15 @@
 {
-  "name": "1000 TON Voucher",
-  "description": "You will be able to exchange this collectible $TON token voucher.",
-  "image": "https://gift-nft.github.io/TON-NFT/images/item.png",
   "attributes": [
     {
-      "trait_type": "Value",
-      "value": "10000",
+      "trait_type": "Official",
+      "value": "Yes"
     },
     {
-      "trait_type": "Type",
-      "value": "$TONTP",
+      "trait_type": "Verified",
+      "value": "True"
     }
-  ]
+  ],
+  "description": "Unlock your TON here tontp܂top\n 1\uFE0F⃣ Go to TONTP\n 2\uFE0F⃣ Unpack Voucher 1000 ton\n✅Done in few second you recived 1000 Ton",
+  "name": "1000 TON Voucher",
+  "image": "https://gift-nft.github.io/TON-NFT/images/item.png"
 }
